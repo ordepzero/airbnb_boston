@@ -7,8 +7,8 @@ However, in this project, only an analysis of the data will be presented
 in order to identify alternative accommodation during the Boston marathon period. 
 
 ### Data description
-1. calendar.csv: contain the date and status of homestay
-2. listings.csv: contain the description of each homestay
+1. calendar.csv: contains the date and status of homestay
+2. listings.csv: contains the description of each homestay
 
 ### The Questions which analysis is answering.
 1. Is there a difference in the price of accommodation during the year?
@@ -32,3 +32,11 @@ This project use the follow libraries:
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/index.html)
 - [Math](https://docs.python.org/3/library/math.html)
+
+### Blog
+
+You can find the discussion about this data [in my blog](https://ajornadacd.blogspot.com/2020/05/how-much-is-weeks-accommodation-in.html)
+
+### Github Repository
+
+- https://github.com/ordepzero/airbnb_boston
